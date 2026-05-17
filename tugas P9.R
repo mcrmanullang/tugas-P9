@@ -10,3 +10,4 @@ boxplot(mtcars$mpg)
 hist(mtcars$mpg)
 min(mtcars$mpg)
 >>>>>>> cabang-new
+barplot(mtcars$mpg)
