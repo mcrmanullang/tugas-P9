@@ -10,3 +10,5 @@ hist(mtcars$mpg)
 min(mtcars$mpg)
 
 plot(mtcars$mpg)
+
+barplot(mtcars$mpg)
