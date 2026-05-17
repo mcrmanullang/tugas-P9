@@ -5,3 +5,4 @@ mean(mtcars$mpg)
 max(mtcars$mpg)
 
 boxplot(mtcars$mpg)
+hist(mtcars$mpg)
